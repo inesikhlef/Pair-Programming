@@ -1,3 +1,4 @@
+list = []
 
 50.times do |k|
 	if k<10
