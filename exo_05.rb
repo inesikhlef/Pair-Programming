@@ -1,4 +1,4 @@
-#permet d'afficher le résulat sans le calcul et aux collabs de voir les détails du calcul sans l'afficher aux utilisateurs
+# dieze crochets permettent de faire des calculs, en affichant directement les resultats sans les calculs
 puts "On va compter le nombre d'heures de travail à THP"
 puts "Travail : #{10 * 5 * 11}" # 10 heures x 5 jours x 11 semaines = 550h
 puts "En minutes ça fait : #{10 * 5 * 11 * 60}" #10 heures x 5 jours x 11 semaines x 60 minutes = 33000 minutes
